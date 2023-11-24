@@ -1,2 +1,3 @@
-# wassup01
-ESTSoft Wassup01 Exercise
+# ESTSoft Wassup01 Exercise
+
+Author: Seungmin Song
